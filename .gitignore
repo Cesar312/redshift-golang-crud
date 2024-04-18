@@ -1,0 +1,23 @@
+# VSCode
+.vscode/
+
+# MacOS specific
+.DS_Store
+
+# Vim swap files
+*.swp
+*.swo
+
+# Ignore environment files
+.env
+
+# Ignore log files
+*.log
+
+# Binaries for programs and libraries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+bin/
