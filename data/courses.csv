@@ -1,0 +1,9 @@
+course_id, course_name, course_prequisite
+MSDS401, Applied Statistics with R, MSDS400
+MSDS420, Database Systems, MSDS420
+MSDS422, Practical Machine Learning, MSDS401
+MSDS432, Foundations of Data Engineering, MSDS420
+MSDS434, Analytics Application Engineering, MSDS420
+MSDS453, Natural Language Processing, MSDS422
+MSDS460, Decision Analytics, MSDS401
+MSDS498, Capstone Project, MSDS458
